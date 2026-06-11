@@ -1,0 +1,2 @@
+run_id,model_name,n_items,LWA,VRS,TC,FMT,FLP,n_confident,n_mixed_resolved,n_mixed_unresolved,n_too_short,n_nonlinguistic,n_ambiguous,n_parse_failed,n_needs_external_audit,automatic_score_final
+openai_gpt55_xhigh_diag_v1,GPT-5.5 xhigh reasoning diagnostic,1500,0.975333,0.800667,0.959333,0.847333,0.992,1254,230,10,0,0,6,264,392,False
