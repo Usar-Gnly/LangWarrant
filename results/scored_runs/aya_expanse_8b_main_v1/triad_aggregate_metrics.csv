@@ -1,0 +1,2 @@
+run_id,model_name,n_groups,TAC,WSS,DIS,TWCS,TVRS,n_needs_external_audit_any_item
+aya_expanse_8b_main_v1,Aya Expanse 8B,500,0.218,0.254,0.324,0.218,0.112,374
