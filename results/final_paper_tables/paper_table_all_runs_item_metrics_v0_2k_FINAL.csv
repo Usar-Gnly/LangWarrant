@@ -1,0 +1,9 @@
+run_id,model_name,n_items,LWA,VRS,TC,FMT,FLP,n_confident,n_mixed_resolved,n_mixed_unresolved,n_too_short,n_nonlinguistic,n_ambiguous,n_parse_failed,n_needs_external_audit,metrics_freeze_status,score_origin,paper_use
+anthropic_sonnet46_main_v1,Claude Sonnet 4.6,1500,0.69,0.447333,0.958,0.683333,0.914,1219,200,14,4,1,62,540,702,FINAL_METRICS_FREEZE_APPROVED,v0.2k_B_audit_guided_scorer_repair,all_runs_or_slice
+aya_expanse_8b_main_v1,Aya Expanse 8B,1500,0.412667,0.258,0.954667,0.698,0.922,1316,148,1,16,0,19,497,955,FINAL_METRICS_FREEZE_APPROVED,v0.2k_B_audit_guided_scorer_repair,all_runs_or_slice
+google_gemini35flash_main_v1,Gemini 3.5 Flash,1500,0.824,0.686667,0.967333,0.826,0.981333,1237,243,8,2,0,10,300,487,FINAL_METRICS_FREEZE_APPROVED,v0.2k_B_audit_guided_scorer_repair,all_runs_or_slice
+llama31_8b_main_v1,Llama-3.1-8B-Instruct,1500,0.301333,0.202,0.9,0.728,0.866667,1345,93,16,17,0,29,451,686,FINAL_METRICS_FREEZE_APPROVED,v0.2k_B_audit_guided_scorer_repair,all_runs_or_slice
+mistral7b_v03_diag_v1,Mistral-7B-Instruct-v0.3,1500,0.356,0.222667,0.958667,0.696667,0.915333,1360,90,10,23,0,17,498,673,FINAL_METRICS_FREEZE_APPROVED,v0.2k_B_audit_guided_scorer_repair,all_runs_or_slice
+openai_gpt55_main_v1,GPT-5.5,1500,0.988667,0.808,0.961333,0.843333,0.986,1270,221,7,0,0,2,275,402,FINAL_METRICS_FREEZE_APPROVED,v0.2k_B_audit_guided_scorer_repair,all_runs_or_slice
+openai_gpt55_xhigh_diag_v1,GPT-5.5 xhigh reasoning diagnostic,1500,0.975333,0.800667,0.959333,0.847333,0.992,1254,230,10,0,0,6,264,392,FINAL_METRICS_FREEZE_APPROVED,v0.2k_B_audit_guided_scorer_repair,all_runs_or_slice
+qwen3_8b_main_v1,Qwen3-8B-Instruct,1500,0.462,0.371333,0.980667,0.844667,0.96,1337,114,4,25,0,20,265,563,FINAL_METRICS_FREEZE_APPROVED,v0.2k_B_audit_guided_scorer_repair,all_runs_or_slice

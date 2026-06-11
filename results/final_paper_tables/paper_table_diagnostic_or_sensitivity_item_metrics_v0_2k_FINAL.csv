@@ -1,0 +1,3 @@
+run_id,model_name,n_items,LWA,VRS,TC,FMT,FLP,n_confident,n_mixed_resolved,n_mixed_unresolved,n_too_short,n_nonlinguistic,n_ambiguous,n_parse_failed,n_needs_external_audit,metrics_freeze_status,score_origin,paper_use
+mistral7b_v03_diag_v1,Mistral-7B-Instruct-v0.3,1500,0.356,0.222667,0.958667,0.696667,0.915333,1360,90,10,23,0,17,498,673,FINAL_METRICS_FREEZE_APPROVED,v0.2k_B_audit_guided_scorer_repair,diagnostic_or_sensitivity
+openai_gpt55_xhigh_diag_v1,GPT-5.5 xhigh reasoning diagnostic,1500,0.975333,0.800667,0.959333,0.847333,0.992,1254,230,10,0,0,6,264,392,FINAL_METRICS_FREEZE_APPROVED,v0.2k_B_audit_guided_scorer_repair,diagnostic_or_sensitivity

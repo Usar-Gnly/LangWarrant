@@ -1,0 +1,7 @@
+model_name,base,distractor_change,warrant_change,warrant_shift_success,distractor_invariance_success,triad_warrant_consistency_score
+GPT-5.5,0.984,0.994,0.988,0.972,0.98,0.968
+Gemini 3.5 Flash,0.824,0.824,0.824,0.744,0.768,0.702
+Claude Sonnet 4.6,0.696,0.69,0.684,0.542,0.572,0.458
+Qwen3-8B-Instruct,0.452,0.462,0.472,0.31,0.388,0.276
+Aya Expanse 8B,0.408,0.418,0.412,0.254,0.324,0.218
+Llama-3.1-8B-Instruct,0.306,0.314,0.284,0.118,0.248,0.108

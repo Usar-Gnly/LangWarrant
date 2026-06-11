@@ -1,0 +1,7 @@
+run_id,model_name,n_groups,TAC,WSS,DIS,TWCS,TVRS,n_needs_external_audit_any_item,metrics_freeze_status,score_origin,paper_use
+anthropic_sonnet46_main_v1,Claude Sonnet 4.6,500,0.458,0.542,0.572,0.458,0.25,315,FINAL_METRICS_FREEZE_APPROVED,v0.2k_B_audit_guided_scorer_repair,official_main
+aya_expanse_8b_main_v1,Aya Expanse 8B,500,0.218,0.254,0.324,0.218,0.112,374,FINAL_METRICS_FREEZE_APPROVED,v0.2k_B_audit_guided_scorer_repair,official_main
+google_gemini35flash_main_v1,Gemini 3.5 Flash,500,0.702,0.744,0.768,0.702,0.562,230,FINAL_METRICS_FREEZE_APPROVED,v0.2k_B_audit_guided_scorer_repair,official_main
+llama31_8b_main_v1,Llama-3.1-8B-Instruct,500,0.108,0.118,0.248,0.108,0.062,307,FINAL_METRICS_FREEZE_APPROVED,v0.2k_B_audit_guided_scorer_repair,official_main
+openai_gpt55_main_v1,GPT-5.5,500,0.968,0.972,0.98,0.968,0.752,180,FINAL_METRICS_FREEZE_APPROVED,v0.2k_B_audit_guided_scorer_repair,official_main
+qwen3_8b_main_v1,Qwen3-8B-Instruct,500,0.276,0.31,0.388,0.276,0.206,250,FINAL_METRICS_FREEZE_APPROVED,v0.2k_B_audit_guided_scorer_repair,official_main
