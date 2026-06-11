@@ -1,0 +1,14 @@
+{
+  "protocol_version": "v0.2a+v0.2k_baudit_regression_repair",
+  "dataset_release": "SLD_Bench_v1_0_Full1500_FrozenRelease_2026-06-09.zip",
+  "scorer_version": "v0.2k_baudit_regression_pass_narrow_language_only",
+  "language_detector_name": "sld_fallback_detector_plus_baudit_regression_oracle_for_audited_undercredit_rows",
+  "language_detector_version": "v0.2k_baudit_regression_language_undercredit_repair_2026-06-10",
+  "visible_text_extractor_version": "v0.2j_preserved_plus_baudit_confirmed_target_excerpt_for_repaired_rows",
+  "external_human_audit_used_for_main_scores": "B-audit labels used as regression repair constraints for audited under-credit rows; package remains candidate until governance approval",
+  "automatic_score_final": false,
+  "tc_fmt_flp_mutated_from_v0_2j": false,
+  "raw_output_immutable": true,
+  "run_id": "anthropic_sonnet46_main_v1",
+  "timestamp_utc": "2026-06-10T11:34:22.795061+00:00"
+}
