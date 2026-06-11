@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "LangWarrant: Evaluating Response-Language Authorization in Multilingual Workflow Prompts"
+message: "If you use LangWarrant, please cite the associated paper and this repository release. Replace the placeholder author metadata with the final author list before archival release."
+type: dataset
+authors:
+  - name: "LangWarrant authors"
+version: "v1.0.0"
+date-released: "2026-06-11"
+repository-code: "https://github.com/Usar-Gnly/LangWarrant"
+license: "Apache-2.0 AND CC-BY-4.0"

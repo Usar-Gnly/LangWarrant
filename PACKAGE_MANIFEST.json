@@ -1,0 +1,26 @@
+{
+  "package_name": "LangWarrant_GitHub_Ready_v1_0_PUBLIC_SAFE_2026-06-11",
+  "repository": "https://github.com/Usar-Gnly/LangWarrant",
+  "release_tag_recommended": "v1.0.0",
+  "paper_facing_name": "LangWarrant",
+  "legacy_internal_prefix": "SLD_v1_0",
+  "created": "2026-06-11",
+  "included": {
+    "data": "frozen benchmark release and inventory tables",
+    "results": "final paper tables, scored runs, and LW3 analysis tables",
+    "scripts": "relative-path verification and analysis recomputation scripts",
+    "paper": "LW4 local paper snapshot",
+    "docs": "dataset card, reproducibility guide, model metadata, AI/human-audit note, and freeze reports"
+  },
+  "excluded_for_public_safety": [
+    "internal working zips",
+    "local build logs",
+    "temporary directories",
+    "files under reference_after_completion_do_not_share_with_new_auditors",
+    "source scripts with hard-coded local absolute paths"
+  ],
+  "licenses": {
+    "code": "Apache-2.0",
+    "data_and_analysis": "CC-BY-4.0"
+  }
+}
