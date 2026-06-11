@@ -1,0 +1,2 @@
+run_id,model_name,n_groups,TAC,WSS,DIS,TWCS,TVRS,n_needs_external_audit_any_item
+google_gemini35flash_main_v1,Gemini 3.5 Flash,500,0.702,0.744,0.768,0.702,0.562,230
